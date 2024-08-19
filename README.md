@@ -1,5 +1,6 @@
 # software developer
-### Technical skills: Angular, TypeScript, JavaScript, HTML, CSS, Java, SQL, NodeJS
+### Technical skills: 
+Angular, TypeScript, JavaScript, HTML, CSS, Java, SQL, NodeJS
 
 ## Education
 -Masters in Computer Science | University of missouri kansas city
