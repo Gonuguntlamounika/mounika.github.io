@@ -1,3 +1,5 @@
 # software developer
 
-#education
+###education
+###work experinece
+###projects
